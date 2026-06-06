@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9f153f7d-54ba-4f2b-ac48-105d84ae9039",
+    "amount": 500,
+    "category": "Food",
+    "date": "2026-06-06",
+    "note": "Lunch"
+  },
+  {
+    "id": "8674f35f-61a5-4b18-bb29-d7e57e863bc0",
+    "amount": 100,
+    "category": "Food",
+    "date": "2026-06-06",
+    "note": ""
+  },
+  {
+    "id": "4ad02078-6589-4211-85a2-7c665f6c0ee3",
+    "note": "snacks",
+    "amount": 10,
+    "category": "Food",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "00f54cea-01af-4561-b04c-57bb7ec7ca13",
+    "note": "zara",
+    "amount": 5000,
+    "category": "Shopping",
+    "date": "2026-06-01"
+  },
+  {
+    "id": "2624514e-5b3d-4dcb-8f50-a7573015288f",
+    "note": "delhi",
+    "amount": 2000,
+    "category": "Travel",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "24c2811b-325b-45b0-acac-adba2460d8a0",
+    "note": "shoes",
+    "amount": 5000,
+    "category": "Shopping",
+    "date": "2026-06-03"
+  }
+]
