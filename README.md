@@ -8,8 +8,8 @@ The Expense Tracker is a full-stack web application that allows users to manage 
 
 ## 🌐 Live Demo Links
 
-* **Frontend (Deployed):** *Add your frontend deployment link here (e.g., Vercel / Netlify)*
-* **Backend API (Deployed):** *Add your backend deployment link here (e.g., Render / Railway)*
+* **Frontend (Deployed):** https://expense-tracker-two-alpha-38.vercel.app/
+* **Backend API (Deployed):** https://expense-tracker-8lgb.onrender.com/
 
 ---
 
